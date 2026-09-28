@@ -5,16 +5,16 @@
 Projeto Integrador de Análise e Projeto de Sistemas, 2026.
 IFPR, Centro de Referência Ponta Grossa. Técnico em Informática Integrado ao Ensino Médio.
 
-**Autoria:** _seu nome, como aparece no AVA_
+**Autoria:** Felipe Dalzoto
 
-**Cliente:** _o papel do cliente e a relação dele com você, no máximo com o primeiro nome. Por exemplo, "Dona Rosa, minha avó, que faz marmita por encomenda"._
+**Cliente:** Sr. Natan, Meu Pai, Me criou desde pequeno.
 
 ## Apresentação do projeto
 
 <!-- Três a cinco frases para quem nunca ouviu falar do seu sistema. Qual é o problema, para quem, e o que o sistema faz a respeito.
      Escreva depois de terminar a 4.1. É um resumo dela, com as suas palavras. -->
 
-_Escreva aqui a apresentação do projeto._
+O FitControl é um sistema criado para facilitar o dia a dia de uma academia. Hoje, informações sobre alunos, pagamentos, planos e treinos são controladas por planilhas e anotações, o que pode acabar gerando confusão. Com o sistema, essas informações ficam organizadas em um só lugar, facilitando o trabalho dos funcionários e o acompanhamento dos alunos.
 
 ## Documento do projeto
 
@@ -59,4 +59,4 @@ O exemplo cresce a cada aula no [repositório do modelo](https://github.com/Prof
 
 ---
 
-**Profe. Berssa** | Dr. João Henrique Berssanette
+**Felipe Dalzoto** | Dr. Felipe Dalzoto
