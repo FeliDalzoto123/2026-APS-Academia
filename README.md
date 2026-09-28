@@ -7,7 +7,7 @@ IFPR, Centro de Referência Ponta Grossa. Técnico em Informática Integrado ao 
 
 **Autoria:** Felipe Dalzoto
 
-**Cliente:** Sr. Natan, Meu Pai, Me criou desde pequeno.
+**Cliente:** Sr. Natan, Dono da Academia, Somos amigos.
 
 ## Apresentação do projeto
 
